@@ -3,6 +3,6 @@
 
 ## Bases de la prog web 
 
-1) HTTP
-2) Serveurs web
-3) Update
+- HTTP
+- Serveurs web
+- Update
