@@ -1,0 +1,39 @@
+div {
+	background-color: rgb(247, 247, 247);
+	border: 1px solid transparent;
+	height: auto;
+	width: auto;
+	margin-left: 1%;
+	padding: 5px;
+
+}
+
+span {
+
+	color: brown;
+}
+body {
+
+	font-family: sans-serif;
+	margin: auto;
+	max-width: 700px;
+}
+
+ul {
+	background-color: rgb(247, 247, 247);
+	border: 1px solid transparent;
+	margin-left: 4%;
+		padding: 20px;
+
+}
+
+ol {
+	background-color: rgb(247, 247, 247);
+	border: 1px solid transparent;
+	margin-left: 4%;
+		padding: 20px;
+}
+
+hr {
+	max-width: 695px;
+}
