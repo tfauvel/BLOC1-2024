@@ -5,13 +5,13 @@ div {
 	width: auto;
 	margin-left: 1%;
 	padding: 5px;
-
 }
 
 span {
 
 	color: brown;
 }
+
 body {
 
 	font-family: sans-serif;
@@ -24,7 +24,6 @@ ul {
 	border: 1px solid transparent;
 	margin-left: 4%;
 		padding: 20px;
-
 }
 
 ol {
@@ -37,3 +36,7 @@ ol {
 hr {
 	max-width: 695px;
 }
+
+
+
+
