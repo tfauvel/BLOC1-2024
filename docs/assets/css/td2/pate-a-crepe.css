@@ -1,41 +1,55 @@
 div {
 	background-color: rgb(247, 247, 247);
-	border: 1px solid transparent;
-	height: auto;
 	width: auto;
-	margin-left: 1%;
-	padding: 5px;
+	margin: auto;
 }
 
 span {
 
-	color: brown;
+	color: #A24618;
 }
 
 body {
 
 	font-family: sans-serif;
 	margin: auto;
-	max-width: 700px;
+	width: auto;
 }
 
-ul {
-	background-color: rgb(247, 247, 247);
-	border: 1px solid transparent;
-	margin-left: 4%;
-		padding: 20px;
+.div1 {
+	margin-left: 647px;
+	margin-right: 641px;
 }
 
-ol {
-	background-color: rgb(247, 247, 247);
-	border: 1px solid transparent;
-	margin-left: 4%;
-		padding: 20px;
+.div2 {
+		margin-left: 651px;
+	margin-right: 654px;
+}
+
+.div3 {
+		margin-left: 647px;
+	margin-right: 643px;
+}
+
+.div4 {
+		margin-left: 647px;
+	margin-right: 642px;
+}
+
+.div5 {
+		margin-left: 672px;
+	margin-right: 643px;
 }
 
 hr {
-	max-width: 695px;
+	max-width: 600px;
 }
+
+img {
+	margin-left: 840px;
+}
+
+
 
 
 
