@@ -13,41 +13,34 @@ body {
 
 	font-family: sans-serif;
 	margin: auto;
-	width: auto;
+	width: 1024px;
 }
 
-.div1 {
-	margin-left: 647px;
-	margin-right: 641px;
-}
-
-.div2 {
-		margin-left: 651px;
-	margin-right: 654px;
-}
 
 .div3 {
-		margin-left: 647px;
-	margin-right: 643px;
+
+	padding-left: 10px;
+	padding-bottom: 0.02px;
+	padding-right: 10px;
+	padding-top: 1px;
 }
 
 .div4 {
-		margin-left: 647px;
-	margin-right: 642px;
+	padding-left: 10px;
+	padding-bottom: 0.02px;
+	padding-right: 10px;
+	padding-top: 0.02px;
 }
 
 .div5 {
-		margin-left: 672px;
-	margin-right: 643px;
+	margin-top: 30px;
+	padding-left: 10px;
+	padding-bottom: 0.02px;
+	padding-right: 10px;
+	padding-top: 0.02px;
 }
 
-hr {
-	max-width: 600px;
-}
 
-img {
-	margin-left: 840px;
-}
 
 
 
