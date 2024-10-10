@@ -1,0 +1,49 @@
+div {
+	background-color: rgb(247, 247, 247);
+	width: auto;
+	margin: auto;
+}
+
+span {
+
+	color: #A24618;
+}
+
+body {
+
+	font-family: sans-serif;
+	margin: auto;
+	width: 1024px;
+}
+
+
+.div3 {
+
+	padding-left: 10px;
+	padding-bottom: 0.02px;
+	padding-right: 10px;
+	padding-top: 1px;
+}
+
+.div4 {
+	padding-left: 10px;
+	padding-bottom: 0.02px;
+	padding-right: 10px;
+	padding-top: 0.02px;
+}
+
+.div5 {
+	margin-top: 30px;
+	padding-left: 10px;
+	padding-bottom: 0.02px;
+	padding-right: 10px;
+	padding-top: 0.02px;
+}
+
+
+
+
+
+
+
+

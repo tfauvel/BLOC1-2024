@@ -1,0 +1,71 @@
+.WEBAGENCY {
+	font-weight: bold;
+	color: #444444;
+}
+
+.ONLINE_SAS {
+	font-weight: bold;
+	color: #444444;
+}
+
+body {
+	color: ;
+	font-family: Calibri;
+	size: 14px;
+	margin-bottom: 100px;
+	margin-left: 400px;
+}
+
+p {
+	color: #7C7C7C;
+}
+
+a {
+	color: #43C4F0;
+}
+
+h1 {
+	color: #444444;
+	line-height: 100px;
+}
+
+h2 {
+	color: #38761D;
+	text-decoration: underline;
+}
+
+h3 {
+	color: #4B4B4B;
+}
+
+.rouge {
+	color: #ECA1A1;
+}
+
+.Édition_du_site {
+	max-width: 800px;
+}
+
+.Hébergement {
+	max-width: 700px;
+}
+
+.Confidentialité {
+	max-width: 700px;
+}
+
+.Cookies {
+	max-width: 709.5px;
+}
+
+.Cookies1 {
+	max-width: 740px;
+}
+
+.Cookies2 {
+	max-width: 703px;
+}
+
+.Données_cartographiques {
+	max-width: 700px;
+}
