@@ -1,0 +1,26 @@
+        body{
+            max-width: 1200px;
+            font-family: arial, sans-serif;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 20px 0;
+        }
+        td, th {
+            border: 3px solid #D5D5D2;
+            padding: 8px;
+
+        }
+
+        .couleur1 {background-color: #F2F2F2}
+
+        th {
+            background-color: #F2F2F2;
+        }
+
+        .couleur {background-color: #EAE9E6
+        }
+
+        .gauche {text-align: left;}
