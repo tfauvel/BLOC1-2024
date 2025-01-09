@@ -19,4 +19,4 @@ Je suis curieux, motivé, et toujours prêt à apprendre de nouvelles compétenc
 
 ## 📫 Me contacter
 - ✉️ **Email** : [theo.fauvel@sts-sio-caen.info](mailto:theo.fauvel@sts-sio-caen.info)
-- 🔗 **LinkedIn** : [linkedin.com/in/ton-profil](https://linkedin.com/in/théo-fauvel)
+- 🔗 **LinkedIn** : [linkedin.com/in/théo-fauvel](https://linkedin.com/in/théo-fauvel)
